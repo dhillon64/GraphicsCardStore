@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsCardStore", "GraphicsCardStore\GraphicsCardStore.csproj", "{0BCCBA4B-A743-4B05-B7B8-449A1FDA61B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCCBA4B-A743-4B05-B7B8-449A1FDA61B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCCBA4B-A743-4B05-B7B8-449A1FDA61B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCCBA4B-A743-4B05-B7B8-449A1FDA61B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCCBA4B-A743-4B05-B7B8-449A1FDA61B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C469E8E9-94BA-4144-9C98-5B077A19EC99}
+	EndGlobalSection
+EndGlobal
